@@ -7,10 +7,17 @@ The system dynamically syncs stores, cities, products, and sales data, and autom
 
 **🚀 Features**
 🔐 Role-based login (Admin / City Manager / Store Manager)
+
 🗄️ Dual DB Support — MySQL + PostgreSQL (auto-switch)
+
 ⚙️ Auto-table creation & data initialization
+
 📊 Inventory & Sales Dashboard
+
 ⏳ Live stock & forecast alerts (background updater)
+
 ✉️ Email alerts to store managers via SendGrid
+
 🕒 Login logs with device + IP tracking
+
 🧾 Supports demo mode if data files are missing
