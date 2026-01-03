@@ -6,6 +6,7 @@ It supports MySQL & PostgreSQL, provides live stock alerts, forecast insights, s
 The system dynamically syncs stores, cities, products, and sales data, and automatically creates required tables on startup.
 
 **🚀 Features**
+
 🔐 Role-based login (Admin / City Manager / Store Manager)
 
 🗄️ Dual DB Support — MySQL + PostgreSQL (auto-switch)
